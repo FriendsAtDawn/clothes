@@ -28,7 +28,7 @@ defaultContentLanguageInSubdir = true
  
 languageCode = "en-us"
 
-# title = "CHANGE ME"
+title = "AO AO"
 # enableGitInfo = true
 
 pygmentsCodefences  = true
